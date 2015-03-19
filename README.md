@@ -1,7 +1,5 @@
 # pythonCorpus
 
-# CharmedDataSet
-
 This is the dataset for the paper "Error Location in Python: Where the Mutants Hide," currently on submission for peer review.
 
 The input files are all of the Python files in the following directories:
